@@ -8,4 +8,6 @@ sum(v) #Sum adds the entries of the vector
 
 max(v) #Gives the largest value, whereas, min(v) gives the smallest 
 
-length(v) #Provides the length . 
+length(v) #Provides the length
+
+#Let us mke a quick change to this file to see if I can publish from the command prompt. 
