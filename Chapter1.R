@@ -30,4 +30,4 @@ factorial(n) #Obviously this gives us the factorial of n
 
 choose(n,k) #This gives us the combinations.
 
-##Sampling and simulation. 
+##Sampling and simulation.
